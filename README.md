@@ -37,7 +37,7 @@ It is a fully responsive website which is built using "Bootstrap" and "CSS Grid"
 ### Links
 
 
-- Live Site URL: [Github Pages](https://saurabh13042004.github.io/Educational-Startup-website/)
+- Live Site URL: [Github Pages](https://dasarijashwanth.github.io/Educational-Startup-website/)
 - Free Learning Mockups : [Free Learning Mockups](https://drive.google.com/drive/folders/1o3Fl7EeMjH7R4972MrtDvYAzoRodpnI5?usp=sharing)
 - Learning Design Link : [Learning Design](https://dribbble.com/shots/16229210-E-learninng-platform-web-landing-page?utm_source=Clipboard_Shot&utm_campaign=suhayelahmednasim&utm_content=E-learninng%20platform%20web%20landing%20page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=suhayelahmednasim&utm_content=E-learninng%20platform%20web%20landing%20page&utm_medium=Social_Share)
 
@@ -89,9 +89,9 @@ I want to learn more about "CSS Grid" and "Bootstrap" and also want to learn mor
 
 ## Author
 
-- Github Profile Link - [Saurabh13042004](https://github.com/dasarijashwanth)
-- Linkdin - [@saurabh-shukla](https://www.linkedin.com/in/jashwanthdasari2001/)
-- Instagram - [@saurabh._shukla._](https://www.instragram.com/dasarijashwanth)
+- Github Profile Link - [DasariJashwanth](https://github.com/dasarijashwanth)
+- Linkdin - [@JashwanthDasari](https://www.linkedin.com/in/jashwanthdasari2001/)
+- Instagram - [@sdasarijashwanth](https://www.instragram.com/dasarijashwanth)
 
 
 
