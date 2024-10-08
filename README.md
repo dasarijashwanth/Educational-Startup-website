@@ -91,7 +91,7 @@ I want to learn more about "CSS Grid" and "Bootstrap" and also want to learn mor
 
 - Github Profile Link - [DasariJashwanth](https://github.com/dasarijashwanth)
 - Linkdin - [@JashwanthDasari](https://www.linkedin.com/in/jashwanthdasari2001/)
-- Instagram - [@sdasarijashwanth](https://www.instragram.com/dasarijashwanth)
+- Instagram - [@dasarijashwanth](https://www.instragram.com/dasarijashwanth)
 
 
 
